@@ -13,7 +13,7 @@ ___
 
 ### 👨‍💻 Languages and Tools
 ___
-<a href="#"><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/></a>
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/>
 <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a>
 <a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></a>
 <a href="#"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /></a>
@@ -40,7 +40,7 @@ ___
 
 ___
 
-[![Baliram's GitHub stats](https://github-readme-stats.vercel.app/api?username=balirampansare&show_icons=true)](https://github.com/balirampansare/github-readme-stats)
+[![Baliram's GitHub stats](https://github-readme-stats.vercel.app/api?username=balirampansare&show_icons=true)]
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=balirampansare&layout=compact)](https://github.com/balirampansare/github-readme-stats)
 
