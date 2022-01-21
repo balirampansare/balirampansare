@@ -38,7 +38,8 @@ ___
 ### 🤝 Connect
 ___
 <!--a href="#"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a-->
-<a href="www.linkedin.com/in/balirampansare"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<!--a href="www.linkedin.com/in/balirampansare"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a-->
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](www.linkedin.com/in/balirampansare)
 
 ### 📈 Github Status
 
