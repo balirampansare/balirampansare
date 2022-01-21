@@ -7,7 +7,7 @@ ___
 ___
 
 <!-- - 🔭 I’m currently working on ... -->
-- 🌱 I’m currently learning Machine Learning
+- 🌱 I’m currently learning ML
 - 👯 I’m looking to collaborate on Python Projects
 - 📫 How to reach me: Check out Connect section below
 
