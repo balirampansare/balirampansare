@@ -50,15 +50,13 @@ ___
 
 ___
 
-![Baliram's GitHub stats](https://github-readme-stats.vercel.app/api?username=balirampansare&show_icons=true)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=balirampansare&theme=vue" alt="summary-card" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=balirampansare&layout=compact" alt="top-languages" />
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=balirampansare" alt="streak-status" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=balirampansare&layout=compact)
+<!-- img src="https://activity-graph.herokuapp.com/graph?username=balirampansare&theme=minimal" alt="activity-status" /-->
 
-![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=balirampansare&theme=vue)
-
-
-
-<p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=balirampansare&" alt="balirampansare" /></p>
+<!-- ![Baliram's GitHub stats](https://github-readme-stats.vercel.app/api?username=balirampansare&show_icons=true) -->
 
 ___
 
