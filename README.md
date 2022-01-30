@@ -54,6 +54,10 @@ ___
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=balirampansare&layout=compact)
 
+![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=balirampansare&theme=vue)
+
+
+
 <p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=balirampansare&" alt="balirampansare" /></p>
 
 ___
