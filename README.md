@@ -1,7 +1,7 @@
 
 ### Hello World 👋 I am [Baliram Pansare](https//www.google.com)👨‍💻
 ___
-![](https://komarev.com/ghpvc/?username=balirampansare&label=Visitors)  [![Github](https://img.shields.io/github/followers/balirampansare?label=Followers&logo=Github)](https://github.com/balirampansare)
+<!-- ![](https://komarev.com/ghpvc/?username=balirampansare&label=Visitors)  [![Github](https://img.shields.io/github/followers/balirampansare?label=Followers&logo=Github)](https://github.com/balirampansare)-->
 
 ### 🎓 IT Engineer Student at Mumbai University
 ___
