@@ -51,7 +51,10 @@ ___
 ___
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=balirampansare&theme=vue" alt="summary-card" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=balirampansare&layout=compact" alt="top-languages" />
+
+<!--img src="https://github-readme-stats.vercel.app/api/top-langs/?username=balirampansare&layout=compact" alt="top-languages" /-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=balirampansare&layout=compact)](https://github.com/balirampansare/github-readme-stats)
+
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=balirampansare" alt="streak-status" />
 
 <!-- img src="https://activity-graph.herokuapp.com/graph?username=balirampansare&theme=minimal" alt="activity-status" /-->
