@@ -61,7 +61,7 @@ ___
 
 <!-- ![Baliram's GitHub stats](https://github-readme-stats.vercel.app/api?username=balirampansare&show_icons=true) -->
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=balirampansare&show_icons=true&title_color=ffffff&text_color=ffffff&bg_color=780099&locale=en" alt="balirampansare" /></p>
+
 ___
 
 
