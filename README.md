@@ -1,12 +1,9 @@
 
 ## Hey 👋, I'm Baliram Pansare
 
-<a href="www.linkedin.com/in/balirampansare"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/balirampansare"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
 
 I am a versatilist and doing Python, Ml, Data Science things. I love exploring new tech stack 💻 and leveraging them to build cool stuffs🛠️.
-
-<!-- ![](https://komarev.com/ghpvc/?username=balirampansare&label=Visitors)  [![Github](https://img.shields.io/github/followers/balirampansare?label=Followers&logo=Github)](https://github.com/balirampansare)-->
-
 
 ### 🧐 More About Me:
 
@@ -14,7 +11,7 @@ I am a versatilist and doing Python, Ml, Data Science things. I love exploring n
 - 🤝 &nbsp; I’m looking to collaborate on data analytics;
 - 🌱 &nbsp; I’m currently learning Google Analytics; 
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](www.linkedin.com/in/balirampansare)
+- 📫 &nbsp; Feel free to ping me on [LinkedIn]([www.linkedin.com/in/balirampansare](https://www.linkedin.com/in/balirampansare))
 
 
 
