@@ -1,7 +1,7 @@
 
 ## Hey 👋, I'm Baliram Pansare
 
-<a href="https://www.linkedin.com/in/balirampansare"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
+<a href="https://www.linkedin.com/in/balirampansare"> <img src="https://img.shields.io/badge/Baliram Pansare-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
 
 I am a versatilist and doing Python, ML, Data Science things. I love exploring new tech stack 💻 and leveraging them to build cool stuffs🛠️.
 
