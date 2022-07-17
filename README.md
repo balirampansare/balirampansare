@@ -40,4 +40,6 @@ ___
 
 ___
 
-<p style="jsu"><a href="https://www.linkedin.com/in/balirampansare">Linkedin</a>  |  <a href="https://balirampansare.netlify.app">Portfolio</a> </p>
+<p align="center">
+<a href="https://www.linkedin.com/in/balirampansare">Linkedin</a>  |  <a href="https://balirampansare.netlify.app">Portfolio</a>
+</p>
