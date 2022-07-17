@@ -2,15 +2,15 @@
 ## Hey 👋, I'm Baliram Pansare
 
 <a href="https://www.linkedin.com/in/balirampansare"> <img src="https://img.shields.io/badge/Baliram Pansare-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
+<a href="https://balirampansare.netlify.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/> </a>
 
-I am a versatilist and doing Python, ML, Data Science things. I love exploring new tech stack 💻 and leveraging them to build cool stuffs🛠️.
+I am a versatilist and doing Python, ML, Data Science things.Able to perform data modeling and evaluation strategy to discover pattern and predict unforeseen instances. Ability to interpret, analyse and create interactive dashboards.Created interactive dashboard using pivot table and pivot charts in excel. I love exploring new tech stack 💻 and leveraging them to build cool stuffs🛠️.
 
 ### 🧐 More About Me:
 
 - 🔭 &nbsp; I’m currently working on **Face Mask Detection**
 - 🤝 &nbsp; I’m looking to collaborate on data analytics;
 - 🌱 &nbsp; I’m currently learning Google Analytics; 
-- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/balirampansare)
 
 
