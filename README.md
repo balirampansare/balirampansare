@@ -38,3 +38,6 @@ ___
 <img src="https://activity-graph.herokuapp.com/graph?username=balirampansare&theme=minimal" />
 <!--img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=balirampansare&theme=vue" /-->
 
+___
+
+<p style="jsu"><a href="https://www.linkedin.com/in/balirampansare">Linkedin</a>  |  <a href="https://balirampansare.netlify.app">Portfolio</a> </p>
