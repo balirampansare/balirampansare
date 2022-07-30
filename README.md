@@ -8,7 +8,7 @@ I am a versatilist and doing Python, ML, Data Science things.Able to perform dat
 
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently working on **Face Mask Detection**
+- 🔭 &nbsp; I’m currently working on **Dynamic data visualization of twitter sentiment using Dash and Python.**
 - 🤝 &nbsp; I’m looking to collaborate on data analytics;
 - 🌱 &nbsp; I’m currently learning Google Analytics; 
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/balirampansare)
