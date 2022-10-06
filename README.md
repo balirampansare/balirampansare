@@ -28,16 +28,10 @@ ___
 <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
  </p>
 
-
-### 📈 Github Status
-
-___
-
 <!--img src="https://github-readme-stats.vercel.app/api?username=balirampansare" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=balirampansare" /-->
-<img src="https://activity-graph.herokuapp.com/graph?username=balirampansare&theme=minimal" />
+<!--img src="https://activity-graph.herokuapp.com/graph?username=balirampansare&theme=minimal" /-->
 <!--img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=balirampansare&theme=vue" /-->
-
 ___
 
 <p align="center">
