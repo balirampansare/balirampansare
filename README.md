@@ -17,7 +17,7 @@ I am a versatilist and doing Python, SQL, ML things.Able to perform data modelin
 
 ### 👨‍💻 Languages and Tools
 ___
-<p>
+<p align="center">
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/>
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
@@ -32,7 +32,12 @@ ___
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=balirampansare" /-->
 <!--img src="https://activity-graph.herokuapp.com/graph?username=balirampansare&theme=minimal" /-->
 <!--img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=balirampansare&theme=vue" /-->
-___
+----
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=balirampansare&theme=blue-green" />
+</p>
+
+----
 
 <p align="center">
 <a href="https://www.linkedin.com/in/balirampansare">Linkedin</a>  |  <a href="https://balirampansare.netlify.app">Portfolio</a>
