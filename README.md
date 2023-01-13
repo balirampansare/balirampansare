@@ -33,11 +33,10 @@ ___
 <!--img src="https://activity-graph.herokuapp.com/graph?username=balirampansare&theme=minimal" /-->
 <!--img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=balirampansare&theme=vue" /-->
 ----
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=balirampansare&theme=blue-green" />
-</p>
 
-----
+<!--p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=balirampansare&theme=blue-green" />
+</p-->
 
 <p align="center">
 <a href="https://www.linkedin.com/in/balirampansare">Linkedin</a>  |  <a href="https://balirampansare.netlify.app">Portfolio</a>
