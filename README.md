@@ -38,8 +38,8 @@ ___
 <img src="https://github-readme-stats.vercel.app/api?username=balirampansare&theme=blue-green" />
 </p-->
 
- <h2 align="left">⚡Activity Graph:</h2>
-  <a><img alt="Baliram's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=balirampansare&theme=react-dark&hide_border=true" /></a>
+ <!--h2 align="left">⚡Activity Graph:</h2>
+  <a><img alt="Baliram's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=balirampansare&theme=react-dark&hide_border=true" /></a-->
 
 <p align="center">
 <a href="https://www.linkedin.com/in/balirampansare">Linkedin</a>  |  <a href="https://balirampansare.netlify.app">Portfolio</a>
